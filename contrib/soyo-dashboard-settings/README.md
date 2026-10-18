@@ -32,3 +32,6 @@ existing `settings.section` slot.
 Scope: the copy and panels are product-specific (Bot / NapCat). This PR is
 shared as an implementation reference; feel free to close it if it is not useful
 for the fork.
+
+Synced from Agent-for-qqbot 1.0.1 (`70452dd25a5e68d5dd50f6c89f200f89d4c3a4c1`);
+`client.js` and `setup-api.mjs` are text-identical to that revision.
